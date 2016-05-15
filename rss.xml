@@ -4,8 +4,15 @@
         <description><![CDATA[The Green Gateway]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 13:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 13:16:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Smart Grid-Empowered Consumer]]></title>
+            <description><![CDATA[<article><h1>The Smart Grid-Empowered Consumer</h1><p>The energy transformation demands that consumers become more empowered - at some level at least - to understand and manage their energy use. With the wider deployment of smart metering, utilities have been seeking to build closer relationships with customers and they are delivering strategies such as personalised billing and energy reports.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/972bfd18fe7b2bf026a3b3b87cb79db41c721bec.jpg"></article>]]></description>
+            <link>http://www.engerati.com/article/smart-grid-empowered-consumer</link>
+            <guid isPermaLink="false">202c5a01-8f10-4a2e-ad2d-06bb3345de9c</guid>
+            <pubDate>Sun, 15 May 2016 13:15:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gas - An energy renaissance that Europe shouldn't ignore]]></title>
             <description><![CDATA[<article><h1>Gas - An energy renaissance that Europe shouldn't ignore</h1><p>Gas hasn't always been as widely available as electricity as an energy source, but the potential of power to gas from renewables, the growing use of biogas and the availability of natural gas are fast changing this. Gas is predicted to play an increasingly important role in our energy system of the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/137bf02a23c4283c72709fddcdd98985c12b3e07.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://solarthermalmagazine.com/2016/04/20/largest-public-electric-vehicle-charging-center-california-opens-santa-clara/</link>
             <guid isPermaLink="false">90df54ab-b42a-4e47-b099-1d44673083af</guid>
             <pubDate>Sun, 15 May 2016 13:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global Wind Power On the Increase]]></title>
-            <description><![CDATA[<article><h1>Global Wind Power On the Increase</h1><p>Following a slowdown in new wind installations during 2013, the market rebounded during 2014 with a 44% increase to exceed 50GW for the first time. According to the Global Wind Energy Council (GWEC), which compiles the global wind statistics, this figure is a solid sign of the recovery of the industry after a rough patch in the past few years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b997b8e936f47256e6471705b8cbfded21803f5a.jpg"></article>]]></description>
-            <link>http://www.engerati.com/article/global-wind-power-increase</link>
-            <guid isPermaLink="false">5e2d1123-cc12-4acf-8452-695ee7ac7ed7</guid>
-            <pubDate>Sun, 15 May 2016 12:21:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
