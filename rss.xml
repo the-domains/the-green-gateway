@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Everything Green ]]></title>
+        <description><![CDATA[Everything Green ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 11:13:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Green Energy Is Efficient Energy - AfricanBrains]]></title>
+            <description><![CDATA[<article><h1>Green Energy Is Efficient Energy - AfricanBrains</h1><p>The efficiency benefits of green energy range from increased efficiency to saving human lives, and they are becoming increasingly evident with each passing scientific study. In fact, a Harvard study found that based on the accepted dollar value of human life, "energy efficiency measures and low-carbon energy sources can save a region between $5.7 million and $210 million annually."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfe3f9856410a58322601206391f62441bf8d61b.jpg"></article>]]></description>
+            <link>http://africanbrains.net/2016/02/25/green-energy-efficient-energy/</link>
+            <guid isPermaLink="false">e124d210-07dd-4d72-bc75-80f24ed66acb</guid>
+            <pubDate>Sun, 15 May 2016 11:12:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
