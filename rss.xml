@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Everything Green ]]></title>
-        <description><![CDATA[Everything Green ]]></description>
+        <title><![CDATA[The Green Gateway]]></title>
+        <description><![CDATA[The Green Gateway]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 12:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 13:15:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Largest Public Electric Vehicle Charging Center in California Opens - Solar Thermal Magazine]]></title>
+            <description><![CDATA[<article><h1>Largest Public Electric Vehicle Charging Center in California Opens - Solar Thermal Magazine</h1><p>The largest public multi-standard electric vehicle charging facility in California officially opened today in Santa Clara, as city and electric vehicle (EV) industry officials celebrated the Santa Clara Electric Vehicle Charging Center located at the city's Tasman Parking Garage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c12812dc2bd0579d0b105ba1d10445bc41cca3e0.jpg"></article>]]></description>
+            <link>https://solarthermalmagazine.com/2016/04/20/largest-public-electric-vehicle-charging-center-california-opens-santa-clara/</link>
+            <guid isPermaLink="false">90df54ab-b42a-4e47-b099-1d44673083af</guid>
+            <pubDate>Sun, 15 May 2016 13:15:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Global Wind Power On the Increase]]></title>
             <description><![CDATA[<article><h1>Global Wind Power On the Increase</h1><p>Following a slowdown in new wind installations during 2013, the market rebounded during 2014 with a 44% increase to exceed 50GW for the first time. According to the Global Wind Energy Council (GWEC), which compiles the global wind statistics, this figure is a solid sign of the recovery of the industry after a rough patch in the past few years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b997b8e936f47256e6471705b8cbfded21803f5a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Graphic: Global warming from 1880 to 2015</h1><p>Earth's 2015 surface temperatures were the warmest since modern record keeping began in 1880, according to independent analyses by NASA and the National Oceanic and Atmospheric Administration (NOAA). Globally-averaged temperatures in 2015 shattered the previous mark set in 2014 by 0.23 degrees Fahrenheit (0.13 Celsius).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e0bb7d454c105cf125e3136138be3945cae12b7.jpg"></article>]]></description>
             <link>http://climate.nasa.gov/climate_resources/139/</link>
             <guid isPermaLink="false">9e61f8e9-676a-4f9a-99e0-428e9acb09b0</guid>
-            <pubDate>Sun, 15 May 2016 12:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Photos Show The Rapid Pace Of Great Barrier Reef Bleaching]]></title>
-            <description><![CDATA[<article><h1>New Photos Show The Rapid Pace Of Great Barrier Reef Bleaching</h1><p>The massive bleaching hitting the Great Barrier Reef off the coast of Australia is likely that country's "biggest ever environmental disaster," says Dr. Justin Marshall, who has studied the reef for three decades. Only 7 percent of the reef has escaped bleaching, according to researchers at the ARC Center of Excellence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b33a11d342cbd2007031d5b115815e075a3b661.jpg"></article>]]></description>
-            <link>http://www.npr.org/sections/thetwo-way/2016/05/14/477963623/new-photos-show-the-rapid-pace-of-great-barrier-reef-bleaching</link>
-            <guid isPermaLink="false">3fa2da7f-cc33-4c7d-a554-ea982bc0a2e8</guid>
             <pubDate>Sun, 15 May 2016 12:21:33 GMT</pubDate>
         </item>
     </channel>
