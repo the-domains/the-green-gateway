@@ -4,8 +4,15 @@
         <description><![CDATA[Everything Green ]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 12:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 12:22:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mini-grids To Power Africa's Rural Electrification]]></title>
+            <description><![CDATA[<article><h1>Mini-grids To Power Africa's Rural Electrification</h1><p>Bringing access to modern energy services to the more than 620 million people (in 2012) and increasing in sub-Saharan Africa - almost half of the global total - currently living without access is one of the major challenges facing African countries in their quest for development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/487a8594a8e400374bffa1552e4b5696758b9c12.jpg"></article>]]></description>
+            <link>http://www.engerati.com/article/mini-grids-power-africa%E2%80%99s-rural-electrification</link>
+            <guid isPermaLink="false">e0d0b182-a753-4dac-a411-3698ee38368b</guid>
+            <pubDate>Sun, 15 May 2016 12:21:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rooftop PV Set For Rapid Growth In Africa]]></title>
             <description><![CDATA[<article><h1>Rooftop PV Set For Rapid Growth In Africa</h1><p>Solar photovoltaic (PV) deployment is a relatively new market in Africa and has been dominated by ground installations. But over the next 5 years rooftop installations are expected to grow rapidly to over 35% of market installations, especially in South Africa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2600df961fe5d2f3bbc41e9d8b8f3422adcec4ce.jpg"></article>]]></description>
@@ -18,6 +25,13 @@
             <description><![CDATA[<article><h1>Global Climate Change: NASA scientists react to 400 ppm carbon milestone</h1><p>The global concentration of carbon dioxide in the atmosphere - the primary driver of recent climate change - has reached 400 parts per million (ppm) for the first time in recorded history, according to data from the Mauna Loa Observatory in Hawaii.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78a60532938a095bff61c1182af9fc257f608a2b.jpg"></article>]]></description>
             <link>http://climate.nasa.gov/400ppmquotes/</link>
             <guid isPermaLink="false">581396f5-57aa-4494-aa9e-d09ffaefa6a9</guid>
+            <pubDate>Sun, 15 May 2016 12:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graphic: Global warming from 1880 to 2015]]></title>
+            <description><![CDATA[<article><h1>Graphic: Global warming from 1880 to 2015</h1><p>Earth's 2015 surface temperatures were the warmest since modern record keeping began in 1880, according to independent analyses by NASA and the National Oceanic and Atmospheric Administration (NOAA). Globally-averaged temperatures in 2015 shattered the previous mark set in 2014 by 0.23 degrees Fahrenheit (0.13 Celsius).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e0bb7d454c105cf125e3136138be3945cae12b7.jpg"></article>]]></description>
+            <link>http://climate.nasa.gov/climate_resources/139/</link>
+            <guid isPermaLink="false">9e61f8e9-676a-4f9a-99e0-428e9acb09b0</guid>
             <pubDate>Sun, 15 May 2016 12:21:33 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://climate.nasa.gov/resources/global-warming/</link>
             <guid isPermaLink="false">5b8bade8-0ac8-484a-863f-95867a79e197</guid>
             <pubDate>Sun, 15 May 2016 12:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="When you combine these satellite pictures from NASA you see something truly incredible." src="https://scontent.xx.fbcdn.net/v/t15.0-10/s110x80/11919312_871081209675591_1804652705_n.jpg?oh=6e51d22eb32309e7ffb012f370cc015a&oe=57E716FB">]]></description>
-            <link>https://www.facebook.com/Area51.US/videos/10154137511294555/</link>
-            <guid isPermaLink="false">573b66bb-34fc-4a0c-ad81-f08d589a6601</guid>
-            <pubDate>Sun, 15 May 2016 12:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ff3297-af5a-4879-ac1b-4ba2dceb8019.jpg">]]></description>
-            <link>https://thegrid.ai/the-green-gateway/7abcfc81-1181-4780-aad1-276ccfdaaf22/index.html</link>
-            <guid isPermaLink="false">7abcfc81-1181-4780-aad1-276ccfdaaf22</guid>
-            <pubDate>Sun, 15 May 2016 11:18:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
