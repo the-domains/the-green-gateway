@@ -1,0 +1,28 @@
+name: The Green Gateway
+favicon: null
+layout_spectrum: 0.6750540020875633
+typography_spectrum: 0.3132098582573235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.21604995266534388
+  lightness: 0.45314902998507023
+  saturation: 0.17831245553679764
+  rhythmicContrast: 0.8547374082263559
+purpose: []
