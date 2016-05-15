@@ -4,8 +4,15 @@
         <description><![CDATA[Everything Green ]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 12:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 12:22:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Energy Efficiency-An Energy Source Not To Be Underestimated]]></title>
+            <description><![CDATA[<article><h1>Energy Efficiency-An Energy Source Not To Be Underestimated</h1><p>Energy efficiency will play a critical role in limiting world energy demand growth to one-third by 2040, while the global economy grows by 150%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcaa2252f709f078a6391b9aa027c0cf05567906.jpg"></article>]]></description>
+            <link>http://www.engerati.com/article/energy-efficiency-energy-source-not-be-underestimated</link>
+            <guid isPermaLink="false">549a5ec1-c270-470c-8fb7-4192eb1d679b</guid>
+            <pubDate>Sun, 15 May 2016 12:21:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google's 'Project Sunroof' To Map Solar Potential]]></title>
             <description><![CDATA[<article><h1>Google's 'Project Sunroof' To Map Solar Potential</h1><p>Google Earth has revolutionized our mapping of the Earth both from an overhead and on the ground perspective - and now it seems set to do the same for the increasing number of people, encouraged by the reducing technology costs, who want to go green and reduce their energy costs by installing solar PV.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00ac331e47a8ce0dcdb659f3fc4af7b72127ceda.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://climate.nasa.gov/climate_resources/125/</link>
             <guid isPermaLink="false">b8755ba3-7001-4a8e-a5c8-a0f611890f0c</guid>
             <pubDate>Sun, 15 May 2016 12:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infographic: Earth's carbon cycle is off balance]]></title>
-            <description><![CDATA[<article><h1>Infographic: Earth's carbon cycle is off balance</h1><p>NASA scientists are working to understand if our land and ocean can continue to absorb carbon dioxide at the current rate - and for how long. Available to download, this infographic covers the science behind Earth's carbon cycle, what's changing and how NASA is studying the rise of carbon dioxide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf668ca45a820b9b5efaee652758f61451b2f514.jpg"></article>]]></description>
-            <link>http://climate.nasa.gov/climate_resources/136/</link>
-            <guid isPermaLink="false">11e4dfe7-2a00-44df-bb48-7703f465d5ea</guid>
-            <pubDate>Sun, 15 May 2016 12:20:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
