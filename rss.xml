@@ -4,8 +4,15 @@
         <description><![CDATA[The Green Gateway]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 16:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 16:04:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sunrun Beats Rooftop Solar-Installation Forecast]]></title>
+            <description><![CDATA[<article><h1>Sunrun Beats Rooftop Solar-Installation Forecast</h1><p>Sunrun Inc. climbed the most in more than six months after sales increased 69 percent in the second quarter, beating expectations, and the second-biggest U.S. rooftop solar company exceeded its installation forecast.</p><img src="http://www.renewableenergyworld.com/content/dam/rew/onlinearticles/2016/08/REW_SunrunBeats.jpg"></article>]]></description>
+            <link>http://www.renewableenergyworld.com/articles/2016/08/sunrun-soars-beats-rooftop-solar-installation-forecast.html</link>
+            <guid isPermaLink="false">5a9ba72d-ea98-47cc-b0bd-2f538a3f5708</guid>
+            <pubDate>Sun, 28 Aug 2016 16:04:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Electric Batteries Seen as Key to Unlocking Power, Auto Markets]]></title>
             <description><![CDATA[<article><h1>Electric Batteries Seen as Key to Unlocking Power, Auto Markets</h1><p>Batteries that store electricity and offset power required from the grid during peak periods are key to unlocking lucrative power and transport markets, according to BMI Research.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5be32287d44e4f3a2a7ba6e895be1268/noop.jpg?input=http%3A%2F%2Fwww.renewableenergyworld.com%2Fcontent%2Fdam%2Frew%2Fonlinearticles%2F2016%2F08%2FREW_ElectricBatteriesSeen.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.climatechangenews.com/2016/08/25/california-passes-ambitious-climate-targets/</link>
             <guid isPermaLink="false">69ef5b2b-f738-4ea4-9b9f-dadbc7d4b524</guid>
             <pubDate>Sun, 28 Aug 2016 16:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SLAC, Stanford gadget grabs more solar energy to disinfect water faster]]></title>
-            <description><![CDATA[<article><h1>SLAC, Stanford gadget grabs more solar energy to disinfect water faster</h1><p>Menlo Park CA (SPX) Aug 18, 2016 - In many parts of the world, the only way to make germy water safe is by boiling, which consumes precious fuel, or by putting it out in the sun in a plastic bottle so ultraviolet rays will kill the m</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/737b91371c879050dbf583c842134a54/noop.jpg?input=http%3A%2F%2Fwww.spxdaily.com%2Fimages-lg%2Fnanostructured-device-disinfect-water-lg.jpg"></article>]]></description>
-            <link>http://www.solardaily.com/reports/SLAC_Stanford_gadget_grabs_more_solar_energy_to_disinfect_water_faster_999.html</link>
-            <guid isPermaLink="false">0aed6815-dec7-4b1d-a2a5-37208a2e335f</guid>
-            <pubDate>Sun, 28 Aug 2016 16:03:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
