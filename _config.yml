@@ -1,20 +1,4 @@
-name: The Green Gateway
-favicon: null
-layout_spectrum: 0.72968
 typography_spectrum: 0.44074
-title: The Green Gateway
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77770177-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1f54a4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.25
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.72968
+analytics:
+  google: UA-77770177-1
+  facebook: null
+  twitter: null
+name: The Green Gateway
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Green Gateway
+description: 'Your Gateway to Green News '
 purpose: []
