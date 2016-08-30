@@ -4,8 +4,15 @@
         <description><![CDATA[The Green Gateway]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 16:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 16:03:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is blue the new green? Wave power could revolutionize the renewable-energy game]]></title>
+            <description><![CDATA[<article><h1>Is blue the new green? Wave power could revolutionize the renewable-energy game</h1><p>Unless you're a surfer, a sailor or the owner of beachfront property during hurricane season, you probably don't spend much time thinking about the power of waves. That may be changing soon. Like a large, slowly building swell miles from shore, the wave-power revolution has quietly and gradually gained momentum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9cfd0126f9bd59ac1e3913338f2c4ae7/noop.jpg?input=http%3A%2F%2Fmedia.salon.com%2F2016%2F08%2Fwave_harvesters-620x412.jpg"></article>]]></description>
+            <link>http://www.salon.com/2016/08/27/is-blue-the-new-green-wave-power-could-revolutionize-the-renewable-energy-game/</link>
+            <guid isPermaLink="false">0a58ccb1-c8ab-4e59-9753-921ac9895325</guid>
+            <pubDate>Sun, 28 Aug 2016 16:03:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Africa droughts prompt calls to start pumping untapped groundwater]]></title>
             <description><![CDATA[<article><h1>Africa droughts prompt calls to start pumping untapped groundwater</h1><p>Despite recent heavy rains, Ethiopia is still reeling from the worst drought to hit the country for half a century, particularly in the livestock-dependent regions of Oromia and Somali. Yet studies (pdf) suggest the country could have billions of cubic metres of untapped groundwater.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6915ec857bb9bc314ef9d2c667b0a2a/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F18a419e07302064275c9a5695dd53345265184de%2F753_272_3843_2306%2F3843.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D53902d00ee76c375eab9ca3429064d0d"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.climatechangenews.com/2016/08/24/climate-change-now-has-a-start-date/</link>
             <guid isPermaLink="false">4ff0807e-8562-4364-a985-44c54edcb8fa</guid>
             <pubDate>Sun, 28 Aug 2016 16:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global warming is melting the Greenland Ice Sheet, fast | John Abraham]]></title>
-            <description><![CDATA[<article><h1>Global warming is melting the Greenland Ice Sheet, fast | John Abraham</h1><p>A new study measures the loss of ice from one of world's largest ice sheets. They find an ice loss that has accelerated in the past few years, and their measurements confirm prior estimates. As humans emit heat-trapping gases, we expect to see changes to the Earth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e2df1f53319a4149555eb8f8b6793e8a/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fe5d3984d03ab6d20064048e4a6a7ac1f1a5baaa7%2F0_262_5616_3370%2F5616.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3Dc0ab8791f386633dceca0c05f8848e66"></article>]]></description>
-            <link>https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/aug/25/global-warming-is-melting-the-greenland-ice-sheet-fast</link>
-            <guid isPermaLink="false">f3d12d15-ff5d-42fb-a696-e4a40934643c</guid>
-            <pubDate>Sun, 28 Aug 2016 16:02:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
