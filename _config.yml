@@ -1,4 +1,3 @@
-layout_spectrum: 0.72968
 typography_spectrum: 0.16271862969733775
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.72968
 analytics:
   google: UA-77770177-1
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Sustainable Energy Quote Comparisons
+    url: www.fuser.co.za
+    type: external
 favicon: null
 title: The Green Gateway
 description: 'Your Gateway to Green Energy News '
