@@ -4,8 +4,15 @@
         <description><![CDATA[The Green Gateway]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 16:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 16:03:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just 90 companies are to blame for most climate change, this 'carbon accountant' says]]></title>
+            <description><![CDATA[<article><h1>Just 90 companies are to blame for most climate change, this 'carbon accountant' says</h1><p>Last month, geographer Richard Heede received a subpoena from Representative Lamar Smith (R-TX), chairman of the House of Representatives Committee on Science, Space, and Technology. Smith, a climate change doubter, became concerned when the attorneys general of several states launched investigations into whether ExxonMobil had committed fraud by sowing doubts about climate change even as its own scientists knew it was taking place.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a81e048c0fbc42b0dbb6882aafb2b9fa/noop.jpg?input=http%3A%2F%2Fwww.sciencemag.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Farticle_main_large%2Fpublic%2F1280x720Heede.jpg%3Fitok%3DgzHt_W6P"></article>]]></description>
+            <link>http://www.sciencemag.org/news/2016/08/just-90-companies-are-blame-most-climate-change-carbon-accountant-says</link>
+            <guid isPermaLink="false">13faca46-bfef-429f-bea2-ef1c3f98fde2</guid>
+            <pubDate>Sun, 28 Aug 2016 16:02:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New high-temperature device captures a broader solar wavelength spectrum]]></title>
             <description><![CDATA[<article><h1>New high-temperature device captures a broader solar wavelength spectrum</h1><p>New high-temperature device captures a broader solar wavelength spectrumby Staff WritersWashington DC (SPX) Aug 15, 2016 The schematic energy flow of standard and solar thermophotovoltaic (STPV) systems. In standard solar cells, a PV cell is directly illuminated by the sun.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c01fa4515388f998efee043cec4029f1/noop.jpg?input=http%3A%2F%2Fwww.spxdaily.com%2Fimages-lg%2Fenergy-flow-standard-solar-pv-thermophotovoltaic-stpv-systems-lg.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.teslamotors.com/powerwall</link>
             <guid isPermaLink="false">5ea8e664-3fb4-4842-b01f-eda50e2df136</guid>
             <pubDate>Fri, 20 May 2016 20:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Tantalisingly close': is solar thermal energy ready to replace coal-fired power?]]></title>
-            <description><![CDATA[<article><h1>'Tantalisingly close': is solar thermal energy ready to replace coal-fired power?</h1><p>Companies working on large-scale solar thermal projects in Australia say they are tantalisingly close to achieving the dream of building plants big enough to replace coal-fired energy in Australia. Experts speaking at the Australian Solar Energy Exhibition and Conference in Melbourne last week said the technology had been proven in other countries, and projects in Australia were viable, but the challenge was getting major investors to gamble on something new.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15ebb44485fe0f7877618c671be4208abea8bfc8.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/sustainable-business/2016/may/13/tantalisingly-close-is-solar-thermal-energy-ready-to-replace-coal-fired-power</link>
-            <guid isPermaLink="false">988eb7b0-339b-4ccd-a24a-e9cc7de084ef</guid>
-            <pubDate>Fri, 20 May 2016 04:13:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
