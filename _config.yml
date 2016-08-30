@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Sustainable Energy Quote Comparisons
-    url: www.fuser.co.za
-    type: external
 favicon: null
 title: The Green Gateway
 description: 'Your Gateway to Green Energy News '
