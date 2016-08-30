@@ -4,22 +4,8 @@
         <description><![CDATA[The Green Gateway]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 16:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 16:03:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Paris climate agreement set to become law this year | Climate Home - climate change news]]></title>
-            <description><![CDATA[<article><h1>Paris climate agreement set to become law this year | Climate Home - climate change news</h1><p>Fifty-seven countries accounting for 59.88% of global emissions have now indicated they will sign agreement before end of 2016 The Paris climate agreement will become international law by the end of 2016 if countries stick to the promises they have made.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd7d493e118717dca4dcd7dfe3b986b9/noop.jpg?input=http%3A%2F%2Fwww.climatechangenews.com%2Ffiles%2F2015%2F02%2Fparis.jpg"></article>]]></description>
-            <link>http://www.climatechangenews.com/2016/08/18/paris-climate-agreement-set-to-become-law-this-year/</link>
-            <guid isPermaLink="false">60566db2-9a78-40f8-a676-45f06d743573</guid>
-            <pubDate>Sun, 28 Aug 2016 16:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SolarCity Growth Slows Even More as Musk Details Energy Vision]]></title>
-            <description><![CDATA[<article><h1>SolarCity Growth Slows Even More as Musk Details Energy Vision</h1><p>SolarCity Corp. is facing near-term roadblocks as installations slow and the pending acquisition by Tesla Motors Inc. hinders its financing efforts. For billionaire Elon Musk, the long-term picture is more significant, as he rolls out more products and services that will make the biggest U.S. rooftop solar company a key part of his energy strategy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ac8a66d424efdfc774e1be5acdb35029/noop.jpg?input=http%3A%2F%2Fwww.renewableenergyworld.com%2Fcontent%2Fdam%2Frew%2Fonlinearticles%2F2016%2F08%2FREW_SolarCityGrowthSlows.jpg"></article>]]></description>
-            <link>http://www.renewableenergyworld.com/articles/2016/08/solarcity-growth-slows-even-more-as-musk-details-energy-vision.html</link>
-            <guid isPermaLink="false">98d22f82-b7a6-4cc6-b770-256e9e93787b</guid>
-            <pubDate>Sun, 28 Aug 2016 16:03:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Federal Regulators Say Tesla's Bid to Acquire SolarCity Isn't an Antitrust Threat]]></title>
             <description><![CDATA[<article><h1>Federal Regulators Say Tesla's Bid to Acquire SolarCity Isn't an Antitrust Threat</h1><p>NPR: Tesla Clears Antitrust Hurdle in $2.6 Billion Deal for SolarCity Tesla Motors moved a step closer in its bid to buy SolarCity after federal regulators said the $2.6 billion deal doesn't present antitrust concerns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49530e7a9154bc900c92e271c98794fd0e1ba255.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.renewablesinternational.net/cuba-seeks-to-expand-role-of-renewable-energy/150/537/97461/</link>
             <guid isPermaLink="false">f4a0a7bb-cc14-43ad-b265-8d648033bce2</guid>
             <pubDate>Sun, 28 Aug 2016 16:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swedish Retailer IKEA to Install Tennessee's Largest Rooftop Solar Array - Solar Thermal Magazine]]></title>
+            <description><![CDATA[<article><h1>Swedish Retailer IKEA to Install Tennessee's Largest Rooftop Solar Array - Solar Thermal Magazine</h1><p>IKEA, the global home furnishings retailer, announced plans to install a solar energy system atop its Memphis store opening late Fall 2016. Panel installation will begin this summer, with completion expected in early Fall for what will be the largest rooftop solar array in the State of Tennessee.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb4ccd302d5a12ec8cc36949ea292a798e7195b6.jpg"></article>]]></description>
+            <link>https://solarthermalmagazine.com/2016/05/12/swedish-retailer-ikea-install-tennessees-largest-rooftop-solar-array/</link>
+            <guid isPermaLink="false">e9d16366-fafd-464b-8e29-5f1920690d22</guid>
+            <pubDate>Fri, 20 May 2016 20:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Market Report: Solar Power in South Africa | Solar Leading]]></title>
+            <description><![CDATA[<article><h1>Market Report: Solar Power in South Africa | Solar Leading</h1><p>Bright year round sunshine, a failing public electricity supply and a world class renewable energy procurement plan all come together to paint a bright future for solar power in South Africa. Over the past four years, investors from around the world have rushed to take part in a utility solar boom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a74107a550dbdc6228e1845098f3146585aa3261.jpg"></article>]]></description>
+            <link>http://www.solarleading.com/2015/08/28/market-report-solar-power-in-south-africa/</link>
+            <guid isPermaLink="false">da2f2621-dac9-4936-bdb6-cf717cc6d0b8</guid>
+            <pubDate>Fri, 20 May 2016 20:50:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
