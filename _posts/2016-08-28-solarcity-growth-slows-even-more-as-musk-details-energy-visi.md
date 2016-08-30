@@ -14,18 +14,15 @@ description: >-
   out more products and services that will make the biggest U.S. rooftop solar
   company a key part of his energy strategy.
 app_links: []
-isBasedOnUrl: >-
-  http://www.renewableenergyworld.com/articles/2016/08/solarcity-growth-slows-even-more-as-musk-details-energy-vision.html
 title: SolarCity Growth Slows Even More as Musk Details Energy Vision
-datePublished: '2016-08-28T16:03:03.349Z'
-dateModified: '2016-08-28T16:00:48.894Z'
+datePublished: '2016-08-28T16:19:10.344Z'
+dateModified: '2016-08-28T16:19:09.397Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-28-solarcity-growth-slows-even-more-as-musk-details-energy-visi.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: solarcity-growth-slows-even-more-as-musk-details-energy-visi/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
