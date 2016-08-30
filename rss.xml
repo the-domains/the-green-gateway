@@ -4,8 +4,15 @@
         <description><![CDATA[The Green Gateway]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 16:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 16:03:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New high-temperature device captures a broader solar wavelength spectrum]]></title>
+            <description><![CDATA[<article><h1>New high-temperature device captures a broader solar wavelength spectrum</h1><p>New high-temperature device captures a broader solar wavelength spectrumby Staff WritersWashington DC (SPX) Aug 15, 2016 The schematic energy flow of standard and solar thermophotovoltaic (STPV) systems. In standard solar cells, a PV cell is directly illuminated by the sun.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c01fa4515388f998efee043cec4029f1/noop.jpg?input=http%3A%2F%2Fwww.spxdaily.com%2Fimages-lg%2Fenergy-flow-standard-solar-pv-thermophotovoltaic-stpv-systems-lg.jpg"></article>]]></description>
+            <link>http://www.solardaily.com/reports/New_high_temperature_device_captures_a_broader_solar_wavelength_spectrum_999.html</link>
+            <guid isPermaLink="false">593efe46-13d9-4638-9662-7aea0d9665d1</guid>
+            <pubDate>Sun, 28 Aug 2016 16:02:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Letter signed by 154 Australian experts demands climate policy match the science]]></title>
             <description><![CDATA[<article><h1>Letter signed by 154 Australian experts demands climate policy match the science</h1><p>More than 150 Australian experts have signed on open letter to the prime minister, Malcolm Turnbull, demanding urgent action on climate change that matches the dire warnings coming from climate scientists. The letter, organised by the Australian National University climatologist Andrew Glikson, calls on the federal government to make "meaningful reductions of Australia's peak carbon emissions and coal exports, while there is still time".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e49b93a6ad29b4ebf3e777b56111178/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F9ccece8a9e542212b07fb0a8cdfc644c23312032%2F0_162_4928_2956%2F4928.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3Dc8e6497aec84ccc4374b42f9330ecd1a"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/sustainable-business/2016/may/13/tantalisingly-close-is-solar-thermal-energy-ready-to-replace-coal-fired-power</link>
             <guid isPermaLink="false">988eb7b0-339b-4ccd-a24a-e9cc7de084ef</guid>
             <pubDate>Fri, 20 May 2016 04:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cheap, efficient and flexible solar cells: New world record for fullerene-free polymer solar cells]]></title>
-            <description><![CDATA[<article><h1>Cheap, efficient and flexible solar cells: New world record for fullerene-free polymer solar cells</h1><p>Polymer solar cells can be even cheaper and more reliable thanks to a breakthrough by scientists at Linköping University and the Chinese Academy of Sciences (CAS). This work is about avoiding costly and unstable fullerenes. Polymer solar cells have in recent years emerged as a low cost alternative to silicon solar cells.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e7d0d9ffdb73185e2b5febd8b36070caa101195.jpg"></article>]]></description>
-            <link>https://www.sciencedaily.com/releases/2016/04/160419103847.htm</link>
-            <guid isPermaLink="false">bef56670-3541-4215-9558-95dce8516e06</guid>
-            <pubDate>Sun, 15 May 2016 13:15:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
