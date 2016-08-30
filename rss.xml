@@ -4,8 +4,15 @@
         <description><![CDATA[The Green Gateway]]></description>
         <link>https://thegrid.ai/the-green-gateway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 16:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 16:03:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-green-gateway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Africa droughts prompt calls to start pumping untapped groundwater]]></title>
+            <description><![CDATA[<article><h1>Africa droughts prompt calls to start pumping untapped groundwater</h1><p>Despite recent heavy rains, Ethiopia is still reeling from the worst drought to hit the country for half a century, particularly in the livestock-dependent regions of Oromia and Somali. Yet studies (pdf) suggest the country could have billions of cubic metres of untapped groundwater.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6915ec857bb9bc314ef9d2c667b0a2a/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F18a419e07302064275c9a5695dd53345265184de%2F753_272_3843_2306%2F3843.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D53902d00ee76c375eab9ca3429064d0d"></article>]]></description>
+            <link>https://www.theguardian.com/sustainable-business/2016/aug/18/africa-drought-untapped-groundwater-aquifers-water-stress-ngo-partnership-ethiopia</link>
+            <guid isPermaLink="false">37aa83b3-9a39-4de8-8e1e-ec09d5a99e1a</guid>
+            <pubDate>Sun, 28 Aug 2016 16:03:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tiny high-performance solar cells turn power generation sideways]]></title>
             <description><![CDATA[<article><h1>Tiny high-performance solar cells turn power generation sideways</h1><p>Hongrui Jiang inspects the alignment of a light source to illuminate new-generation lateral solar cells. The solar cells developed by Jiang's group harvest almost three times more electricity from incoming light as compared to existing technologies. Image courtesy Stephanie Precourt. For a larger version of this image please go here.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7d618f1ad826e6868c52fede1a0d66f/noop.jpg?input=http%3A%2F%2Fwww.spxdaily.com%2Fimages-lg%2Fhongrui-jiang-lg.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/aug/25/global-warming-is-melting-the-greenland-ice-sheet-fast</link>
             <guid isPermaLink="false">f3d12d15-ff5d-42fb-a696-e4a40934643c</guid>
             <pubDate>Sun, 28 Aug 2016 16:02:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Human-Induced Climate Change Has Been Going On Longer Than You Think]]></title>
-            <description><![CDATA[<article><h1>Human-Induced Climate Change Has Been Going On Longer Than You Think</h1><p>Continents and oceans in the northern hemisphere began to warm with industrial-era fossil fuel emissions nearly 200 years ago, pushing back the origins of human-induced climate change to the mid-19th century.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f005df91cafae90265ed864e25d4b142/noop.jpg?input=http%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F08%2FGettyImages-3109294-1200x630-e1472165845993.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/08/human-induced-climate-change-going-longer-think/</link>
-            <guid isPermaLink="false">1e694db1-cee7-480b-87ef-859329a91b6e</guid>
-            <pubDate>Sun, 28 Aug 2016 16:02:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
